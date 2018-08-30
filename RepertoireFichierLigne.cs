@@ -8,7 +8,7 @@ using System.Collections;
 using System.Xml;
 using System.Xml.Serialization;
 
-namespace Proginov.PnvUserControls
+namespace Browser
 {
     [Serializable]
     public class PlkFichier
